@@ -1,0 +1,12 @@
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/edit_cache.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/rebuild_cache.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/upload_eeprom.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/MMU.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/upload_MMU.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/MMU-atmega88p.elf.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/set_calibration.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/disassemble_MMU.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/get_calibration.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/get_status.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/get_fuses.dir
+/media/johu/data/Projekte/newco/firmware/MMU-build/CMakeFiles/set_fuses.dir
